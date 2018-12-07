@@ -1,7 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 
 
 
@@ -429,66 +430,28 @@ h6,
 #header2-8 .mbr-section-title I {
   font-size: 23px;
 }
-#header2-2 .mbr-section-text {
-  text-align: left;
-}
-#header2-2 .mbr-section-title {
-  text-align: left;
-  color: #ffffff;
-  font-size: 30px;
-}
-#header2-2 .mbr-section-text B {
-  color: #020101;
-}
-#header2-2 .mbr-section-title I {
-  font-size: 23px;
-}
-#form1-9 .form-control-label {
-  color: #ffffff;
-}
-#form1-9 .mbr-section-title {
-  color: #ffffff;
-}
-#form1-9 SMALL {
-  color: #ffffff;
-}
-
-#header2-1 .mbr-section-text {
+#header2-b .mbr-section-text {
   text-align: left;
   color: #ffffff;
   font-size: 18px;
 }
-#header2-1 .mbr-section-title {
+#header2-b .mbr-section-title {
   text-align: left;
   color: #ffffff;
 }
-#header2-1 .mbr-section-text B {
+#header2-b .mbr-section-text B {
   color: #000000;
 }
-#header2-1 .mbr-section-text I {
+#header2-b .mbr-section-text I {
   font-family: 'Open Sans', sans-serif;
   color: #ffffff;
 }
-#header2-6 .mbr-section-text {
-  text-align: left;
-}
-#header2-6 .mbr-section-title {
-  text-align: left;
-  color: #ffffff;
-  font-size: 30px;
-}
-#header2-6 .mbr-section-text B {
+#form1-c .form-control-label {
   color: #ffffff;
 }
-#header2-6 .mbr-section-title I {
-  font-size: 23px;
-}
-#form1-7 .form-control-label {
+#form1-c .mbr-section-title {
   color: #ffffff;
 }
-#form1-7 .mbr-section-title {
-  color: #ffffff;
-}
-#form1-7 SMALL {
+#form1-c SMALL {
   color: #ffffff;
 }
