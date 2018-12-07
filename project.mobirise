@@ -124,7 +124,7 @@
           },
           "title": "<i><br></i>Vimasa Analytics ApS<br><i>What we do</i>",
           "text": "- We engage in IT projects<br>- We are committed<br>- We do our best so our customers succeed<br><br>We are dedicated from the beginning, and our goals is to make sure our customers IT investment are aligned and returning the expected value.<br><br>- Project Management<br>- IT Transition &amp; Transformation<br>- PMO Processes &amp; Governance<br>- GDPR &amp; Compliance<br>- IT Assessment<br>- IT Security<br>- Cloud<br><br><b><br></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"Abou.html\" data-toolbar=\"-mbrBtnMove\">Contact info</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">Contact info</a>",
           "_tags": [
             "Theme"
           ],
