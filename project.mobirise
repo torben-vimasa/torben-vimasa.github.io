@@ -415,7 +415,7 @@
           },
           "title": "<i><br></i>Vimasa Improvement ApS<br><i>What we do</i>",
           "text": "<i>- We engage in IT projects<br>- We are committed<br>- We do our best so our customers succeed</i><br><br><b>We are dedicated from the beginning, and our goals is to make sure our customers IT investment are aligned and returning the expected value.</b><br><i><br>- Project Management<br>- IT Transition &amp; Transformation<br>- PMO Processes &amp; Governance<br>- GDPR &amp; Compliance<br>- IT Assessment<br>- IT Security<br>- Cloud<br></i><br><b><br></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">Contact info</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a>",
           "_tags": [
             "Theme"
           ],
