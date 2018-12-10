@@ -30,7 +30,8 @@
     "favicon": "",
     "noImageResize": "",
     "uniqCompNum": 13,
-    "versionPublish": "4.8.8"
+    "versionPublish": "4.8.8",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -64,7 +65,7 @@
             "overlayOpacity": "0.1"
           },
           "title": "<p>Vimasa Improvements ApS</p>",
-          "text": "Vimasa Improvement ApS was founded in 2017 by <br>Torben Nørskov-Jensen and Lars Aagaard. \n<br>Both founders have long careers in IT and Management consulting with focus on the financial and public sector",
+          "text": "Vimasa Improvement ApS was founded in 2017 by <br>Torben Nørskov-Jensen &nbsp;<br>The Team members have long careers in IT and Management consulting with focus on the financial and public sector",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">Services</a> ",
           "_tags": [
             "Theme"
@@ -173,9 +174,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/mbr-1400x879.jpg",
-              "link": "",
+              "link": "assets/files/torben.pdf",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -190,7 +192,7 @@
             }
           },
           "title": "About &amp; Contact",
-          "text": "Vimasa Analytics ApS was founded in 2017 <br>by Torben Nørskov-Jensen and Lars Aagaard. \n<br>Both founders have long careers in IT and Management consulting with focus on the financial and public sector<br><br><i>Torben Nørskov Jensen<br>Partner<br>E: torben.jensen@vimasa.dk<br>M: +45 31 58 5757</i><br><br><br><i>Lars Aagaard<br>Partner<br>E: lars.aagaard@vimasa.dk<br>M: +45 21 69 3053</i>",
+          "text": "Vimasa Improvements ApS was founded in 2017 <br>by Torben Nørskov-Jensen and Lars Aagaard. \n<br>Both founders have long careers in IT and Management consulting with focus on the financial and public sector<br><br><i>Torben Nørskov Jensen<br>Managing Partner<br>E: torben.jensen@vimasa.dk<br>M: +45 31 58 5757</i><br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">Services</a>",
           "_tags": [
             "Theme"
