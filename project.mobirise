@@ -85,7 +85,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "33",
+            "imageSize": "27",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
@@ -123,7 +123,7 @@
               "size": 250
             }
           },
-          "title": "<i><br></i>Vimasa Improvement<br><br><i>What we do</i>",
+          "title": "<i><br></i>Vimasa <br>Improvement<br><br><i>What we do!</i><br><i><br></i>",
           "text": "- We engage in IT projects<br>- We are committed<br>- We do our best so our customers succeed<br><br>We are dedicated from the beginning, and our goals is to make sure our customers IT investment are aligned and returning the expected value.<br><br>- Project Management<br>- IT Transition &amp; Transformation<br>- PMO Processes &amp; Governance<br>- GDPR &amp; Compliance<br>- Simplification of IT Landscape<br>- IT Assessment<br>- IT Security<br>- Cloud transition &amp; transformation<br><br><b><br></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">Contact info</a>",
           "_tags": [
@@ -135,7 +135,7 @@
               "text-align": "left"
             },
             ".mbr-section-title": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#ffffff",
               "font-size": "30px"
             },
@@ -155,7 +155,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "24",
+            "imageSize": "20",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
@@ -226,17 +226,17 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1920.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#a38f84",
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
           "subtitle": "Digital transition is here - don't get behind",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "torben.jensen@vimasa.dk",
             "alerts": {
