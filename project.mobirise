@@ -82,7 +82,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "showArrow": true,
             "imageSize": "33",
