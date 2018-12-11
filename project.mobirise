@@ -135,7 +135,7 @@
               "text-align": "left"
             },
             ".mbr-section-title": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ffffff",
               "font-size": "46px"
             },
