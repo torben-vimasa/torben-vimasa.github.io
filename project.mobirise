@@ -64,8 +64,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.1"
           },
-          "title": "<p>Vimasa Improvements&nbsp;</p>",
-          "text": "welcome",
+          "title": "<p>Vimasa Improvement&nbsp;</p>",
+          "text": "welcome&nbsp;<br>Business &amp; IT as One",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">Services</a> ",
           "_tags": [
             "Theme"
@@ -123,7 +123,7 @@
               "size": 250
             }
           },
-          "title": "<i><br></i>Vimasa Improvements<br><br><i>What we do</i>",
+          "title": "<i><br></i>Vimasa Improvement<br><br><i>What we do</i>",
           "text": "- We engage in IT projects<br>- We are committed<br>- We do our best so our customers succeed<br><br>We are dedicated from the beginning, and our goals is to make sure our customers IT investment are aligned and returning the expected value.<br><br>- Project Management<br>- IT Transition &amp; Transformation<br>- PMO Processes &amp; Governance<br>- GDPR &amp; Compliance<br>- Simplification of IT Landscape<br>- IT Assessment<br>- IT Security<br>- Cloud transition &amp; transformation<br><br><b><br></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">Contact info</a>",
           "_tags": [
@@ -191,7 +191,7 @@
             }
           },
           "title": "About &amp; Contact",
-          "text": "Vimasa Improvements was founded in 2018&nbsp;<br>by Torben Nørskov-Jensen&nbsp;<br>I have long careers in IT and Management consulting with focus on the financial and public sector<br>Certified Prince2 &amp; Lean Six Sigma<br><br><br><br><br><i>Vimasa Improvement</i><br><i>Torben Nørskov Jensen<br>Project Manager, Cyber Security &amp; Cloud<br>E: torben.jensen@vimasa.dk</i><br><i>M: +45 31 58 5757</i><br><i>CVR :&nbsp;39824469</i><br><br><br>",
+          "text": "Vimasa Improvement was founded in 2018&nbsp;<br>by Torben Nørskov-Jensen&nbsp;<br>I have long careers in IT and Management consulting with focus on the financial and public sector<br>Certified Prince2 &amp; Lean Six Sigma<br><br><br><br><br><i>Vimasa Improvement</i><br><i>Torben Nørskov Jensen<br>Project Manager, Cyber Security &amp; Cloud<br>E: torben.jensen@vimasa.dk</i><br><i>M: +45 31 58 5757</i><br><i>CVR :&nbsp;39824469</i><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">Services</a>",
           "_tags": [
             "Theme"
