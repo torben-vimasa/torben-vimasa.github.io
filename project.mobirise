@@ -48,7 +48,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -64,8 +64,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.1"
           },
-          "title": "<p>Vimasa Improvements ApS</p>",
-          "text": "Vimasa Improvement ApS was founded in 2017 by <br>Torben Nørskov-Jensen &nbsp;<br>All our Team members have long careers in IT and Management consulting with focus on the financial and public sector",
+          "title": "<p>Vimasa Improvements&nbsp;</p>",
+          "text": "welcome",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">Services</a> ",
           "_tags": [
             "Theme"
@@ -123,8 +123,8 @@
               "size": 250
             }
           },
-          "title": "<i><br></i>Vimasa Improvements ApS<br><br><i>What we do</i>",
-          "text": "- We engage in IT projects<br>- We are committed<br>- We do our best so our customers succeed<br><br>We are dedicated from the beginning, and our goals is to make sure our customers IT investment are aligned and returning the expected value.<br><br>- Project Management<br>- IT Transition &amp; Transformation<br>- PMO Processes &amp; Governance<br>- GDPR &amp; Compliance<br>- IT Assessment<br>- IT Security<br>- Cloud<br><br><b><br></b>",
+          "title": "<i><br></i>Vimasa Improvements<br><br><i>What we do</i>",
+          "text": "- We engage in IT projects<br>- We are committed<br>- We do our best so our customers succeed<br><br>We are dedicated from the beginning, and our goals is to make sure our customers IT investment are aligned and returning the expected value.<br><br>- Project Management<br>- IT Transition &amp; Transformation<br>- PMO Processes &amp; Governance<br>- GDPR &amp; Compliance<br>- Simplification of IT Landscape<br>- IT Assessment<br>- IT Security<br>- Cloud transition &amp; transformation<br><br><b><br></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">Contact info</a>",
           "_tags": [
             "Theme"
@@ -155,9 +155,9 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "34",
+            "imageSize": "24",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1277.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -173,11 +173,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x879.jpg",
+              "src": "@PROJECT_PATH@/assets/images/torben-bw-236x314.jpg",
               "link": "assets/files/torben.pdf",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -192,7 +191,7 @@
             }
           },
           "title": "About &amp; Contact",
-          "text": "Vimasa Improvements ApS was founded in 2017 <br>by Torben Nørskov-Jensen and Lars Aagaard. \n<br>Both founders have long careers in IT and Management consulting with focus on the financial and public sector<br><br><i>Torben Nørskov Jensen<br>Managing Partner<br>E: torben.jensen@vimasa.dk<br>M: +45 31 58 5757</i><br><br><br><br>",
+          "text": "Vimasa Improvements was founded in 2018&nbsp;<br>by Torben Nørskov-Jensen&nbsp;<br>I have long careers in IT and Management consulting with focus on the financial and public sector<br>Certified Prince2 &amp; Lean Six Sigma<br><br><br><br><br><i>Vimasa Improvement</i><br><i>Torben Nørskov Jensen<br>Project Manager, Cyber Security &amp; Cloud<br>E: torben.jensen@vimasa.dk</i><br><i>M: +45 31 58 5757</i><br><i>CVR :&nbsp;39824469</i><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Services.html\" data-toolbar=\"-mbrBtnMove\">Services</a>",
           "_tags": [
             "Theme"
