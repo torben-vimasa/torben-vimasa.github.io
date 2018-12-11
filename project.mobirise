@@ -123,7 +123,7 @@
               "size": 250
             }
           },
-          "title": "<i><br></i>Vimasa Improvement<br><br><br><i><br></i>",
+          "title": "<i><br></i>Vimasa Improvement<br><br><br><br><i><br></i>",
           "text": "<b>What we do!</b><br>- We engage in IT projects<br>- We are committed<br>- We do our best so our customers succeed<br><br>We are dedicated from the beginning, and our goals is to make sure our customers IT investment are aligned and returning the expected value.<br><br>- Project Management<br>- IT Transition &amp; Transformation<br>- PMO Processes &amp; Governance<br>- GDPR &amp; Compliance<br>- Simplification of IT Landscape<br>- IT Assessment<br>- IT Security<br>- Cloud transition &amp; transformation<br><br><b><br></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">Contact info</a>",
           "_tags": [
@@ -137,7 +137,7 @@
             ".mbr-section-title": {
               "text-align": "center",
               "color": "#ffffff",
-              "font-size": "46px"
+              "font-size": "36px"
             },
             ".mbr-section-text B": {
               "color": "#ffffff",
